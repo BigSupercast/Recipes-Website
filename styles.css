@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(54, 53, 53);
+}
+
+h1, a, ul {
+    color: white;
+    text-align: center;
+}
+
+ul { 
+    list-style: none;    
+    padding-right: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
